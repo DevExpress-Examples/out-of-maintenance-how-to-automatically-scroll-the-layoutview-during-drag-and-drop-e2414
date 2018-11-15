@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [AutoScrollHelper.cs](./CS/WindowsApplication26/AutoScrollHelper.cs) (VB: [AutoScrollHelper.vb](./VB/WindowsApplication26/AutoScrollHelper.vb))
+* [Form1.cs](./CS/WindowsApplication26/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication26/Form1.vb))
+* [Program.cs](./CS/WindowsApplication26/Program.cs) (VB: [Program.vb](./VB/WindowsApplication26/Program.vb))
+<!-- default file list end -->
 # How to automatically scroll the LayoutView during drag-and-drop
 
 
